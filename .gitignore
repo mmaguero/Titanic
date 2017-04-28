@@ -1,4 +1,4 @@
-.odt
+doc/*.odt
 
 # History files
 .Rhistory
